@@ -1,0 +1,19 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Ndhlovu NFT's"
+        },
+        "description": {
+            "type": "string",
+            "description": "An amazing NFT Logo from the one of the very few Blockchain developers in Namibia."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://ndhlovu1.github.io/img/logo3.png"
+        }
+    }
+}
+
