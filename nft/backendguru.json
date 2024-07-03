@@ -1,19 +1,20 @@
 {
-    "title": "Asset Metadata",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "Ndhlovu NFT's"
+
+    "name" : "TheBackEndGuru Logo",
+    "description" : "A Logo by one of the Best Software Developers in Namibia and One of the very few Blockchain DApp Developers in SADC and Namibia.",
+    "image" : "https://ndhlovu1.github.io/img/logo2.png",
+    "animation_url" : "https://youtu.be/vn74QEeK9io?si=-jQuiTtJAJRg4Bkf",
+    "external_url" : "https://ndhlovu1.github.io",
+    "attributes" : [
+        {
+            "trait_type" : "Artifact",
+            "value" : "Fame"        
         },
-        "description": {
-            "type": "string",
-            "description": "An amazing NFT Logo from the one of the very few Blockchain developers in Namibia and Southern Africa."
-        },
-        "image": {
-            "type": "string",
-            "description": "https://ndhlovu1.github.io/img/logo3.png"
+        {
+            "trait_type" : "Collection",
+            "value" : "Genesis"
         }
-    }
+    ]
+
 }
 
