@@ -1,20 +1,17 @@
 {
-
-    "name" : "TheBackEndGuru Logo",
-    "description" : "A Logo by one of the Best Software Developers in Namibia and One of the very few Blockchain DApp Developers in SADC and Namibia.",
-    "image" : "https://ndhlovu1.github.io/img/logo2.png",
-    "animation_url" : "https://youtu.be/vn74QEeK9io?si=-jQuiTtJAJRg4Bkf",
-    "external_url" : "https://ndhlovu1.github.io",
-    "attributes" : [
+    "name": "Ndhlovu Token 🧸",
+    "description": "Introducing the future of Cuteness. A Teddybear Token. Floating in Space. Save them by getting this NFT. Cuddle each one of them. You need them. Buy them now. Also, they are coming from ethereum-blockchain-developer.com",
+    "image": "https://ethereum-blockchain-developer.com/2022-06-nft-truffle-hardhat-foundry/nftdata/spacebear_1.webp",
+    "external_url": "https://ethereum-blockchain-developer.com",
+    "attributes": [
         {
-            "trait_type" : "Artifact",
-            "value" : "Fame"        
+            "trait_type": "Artefact", 
+            "value": "Teddybear"
         },
         {
-            "trait_type" : "Collection",
-            "value" : "Genesis"
+            "trait_type": "Collection", 
+            "value": "Genesis"
         }
     ]
-
 }
 
